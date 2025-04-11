@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Skulls everywhere"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "70c4e030-c32b-4374-9efa-c457d54be282"
+    }
+  ],
   "set": "Default",
   "event_id": "dbbc404a-14ab-4a0b-8727-4fb6eba3d58b",
   "source_id": "78e71631-8a28-463e-b935-091510926bc2"
