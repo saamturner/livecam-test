@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "78e71631-8a28-463e-b935-091510926bc2": {
+      "label": "Spider Crab Live Cam",
+      "is_offline": false,
+      "file_url": "https://www.youtube.com/watch?v=dzmJXWmA2EM",
+      "duration": 90,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Video",
+  "label": "Spider Crab Live Cam",
+  "created_at": "2025-04-11T15:54:31.107Z",
+  "created_by": "saamturner",
+  "updated_at": "2025-04-11T15:54:31.107Z",
+  "updated_by": "saamturner"
+}

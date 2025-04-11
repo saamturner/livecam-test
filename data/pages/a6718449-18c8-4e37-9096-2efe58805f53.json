@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-04-11T15:54:31.311Z",
+  "created_by": "saamturner",
+  "title": "Spider Crab Live Cam",
+  "slug": "spider-crab-live-cam",
+  "updated_at": "2025-04-11T15:54:31.311Z",
+  "updated_by": "saamturner",
+  "parent": "c690fc63-f64b-49df-bb0e-d7719bba3d9c",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "dbbc404a-14ab-4a0b-8727-4fb6eba3d58b"
+  }
+}
